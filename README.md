@@ -17,19 +17,21 @@ Make sure you have Node.js installed on your machine.
    git clone https://github.com/abdul-anwar/GPT-Chatbot.git
    cd GPT-Chatbot
 
-Install dependencies:
+2. Install dependencies:
+   ```bash
+   npm install
 
-npm install
+4. Run the chatbot:
+   ```bash
+   node index.js
 
-Run the chatbot:
-
-node index.js
-
-Conversation Example
-
+### Conversation Example
 You: Hello, chatbot!
+
 Bot: Greetings! How can I assist you today?
+
 You: Tell me a joke.
+
 Bot: Sure, here's one: Why don't scientists trust atoms? Because they make up everything!
 
 Feel free to engage with the chatbot and explore the possibilities of natural language interaction.
